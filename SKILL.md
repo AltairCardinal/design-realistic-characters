@@ -5,6 +5,10 @@ description: Design, diagnose, and lock believable photorealistic adult human ch
 
 # Design Realistic Characters
 
+> **已迁移。** 本 skill 现收纳于 skill 收藏库
+> [`AltairCardinal/skills`](https://github.com/AltairCardinal/skills/tree/main/creative/design-realistic-characters)，
+> 与其它 skill 一起按类别管理。本仓库保留为历史快照，后续更新请提交到新仓库。
+
 Build the person before building the shot. Separate identity, photography, performance, and continuity so cinematic polish cannot hide a weak or generic face.
 
 Use this workflow for adult characters. Route requests involving minors through an age-appropriate workflow and applicable safety rules instead of adapting these casting heuristics casually.
